@@ -73,6 +73,7 @@ body {
 .spell_text span{
     font-family: "Splash";
     color: rgb(255, 19, 220);
+    text-shadow: black 2px 2px;
     font-size: 3.5vh;
 }
 video {
