@@ -7,6 +7,14 @@ body{
     margin: 0;
     background: linear-gradient( #000000 50%, #247fff 50%);
 }
+.logo{
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  width: 10vw;
+  height: auto;
+  z-index: -1;
+}
 .main {
     display: flex;
     flex-direction: row;
@@ -35,10 +43,9 @@ body{
 .title {
     font-family: "Splash";
     font-size: 10rem;
-    font-weight: bold;
     margin: 0;
     color: rgb(255, 19, 220);
-    text-shadow: #247fff 3px 3px;
+    text-shadow: #247fff 4px 4px;
 
 }
 .subtitle {
