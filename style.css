@@ -63,6 +63,7 @@ body{
     font-size: 3vw;
     color: rgb(255, 19, 220);
     text-shadow: #004cb6 4px 4px;
+    padding-inline: 3%;
 }
 .link:hover {
     color: rgb(255, 226, 41);
